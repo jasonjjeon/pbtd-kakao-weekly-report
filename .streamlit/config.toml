@@ -1,0 +1,11 @@
+[bind]
+name = "PBTD 카카오모먼트 주간 분석"
+
+[server]
+headless = true
+
+[theme]
+primaryColor = "#FAE100"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F5F5"
+textColor = "#191919"
